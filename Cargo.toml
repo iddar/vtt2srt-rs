@@ -3,6 +3,13 @@ name = "vtt2srt"
 version = "0.1.0"
 authors = ["iddar <iddar@dbug.mx>"]
 edition = "2018"
+license = "MIT"
+description = "Convert subtitle from vtt format to srt"
+readme = "README.md"
+homepage = "https://github.com/iddar/vtt2srt-rs"
+repository = "https://github.com/iddar/vtt2srt-rs"
+keywords = ["vtt", "subtitle", "srt"]
+categories = ["command-line-utilities"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
