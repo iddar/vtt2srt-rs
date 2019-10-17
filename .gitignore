@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+
+*.srt
+*.vtt
+.DS_Store
